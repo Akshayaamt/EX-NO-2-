@@ -86,3 +86,6 @@ Output:
 
 ![Screenshot 2025-05-22 110837](https://github.com/user-attachments/assets/55357adc-accc-478b-b760-be84bc055271)
 
+Result :
+This program encrypts and decrypts a 3-letter plaintext using the Hill Cipher with a 3×3 key matrix and its inverse.
+
