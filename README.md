@@ -32,6 +32,7 @@ STEP-5: Display the obtained cipher text.
 
 
 Program:
+```
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -74,6 +75,7 @@ int main()
     printf(" %c",c[i]+65);
     return 0;
 }
+```
 
 
 
